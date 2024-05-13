@@ -17,9 +17,13 @@ Education
 Research experience
 ======
 * Emergent Long-Range Interaction in Entanglement Hamiltonian
+  
 Period: Jul. 2023 - Sep. 2023
+
 Institution: Hangzhou, China
+
 Instructor: Prof. Zheng Yan
+
 Responsibilities:
 
 1.Utilized exact diagonalization for analyzing the 1D Heisenberg Ladder system.
@@ -27,9 +31,13 @@ Responsibilities:
 2.Extracted the strength of Heisenberg operator across varying interaction distances within the entanglement Hamiltonian to challenge the Li-Haldane conjecture.
 
 * Neural Quantum State Ansatz for Variational Monte Carlo Method
+
 Period: Aug. 2023 - Apr. 2024
+
 Institution: San Diego, USA
+
 Instructor: Prof. Yizhuang You
+
 Responsibilities:
 
 1.Implemented Neural Jastrow correlator in VMC for determining the ground state of multi-flavor Fermion models.
@@ -40,9 +48,13 @@ Responsibilities:
 3.Employed CNN and GCNN ansatz in VMC for ground state determination of frustrated spin models like the J_1-J_2 model.
 
 * Monte Carlo Method for Quantum Error Correction
+
 Period: Nov. 2023 - Present
+
 Institution: Riverside, USA
+
 Instructor: Prof. Leonid Pryadko
+
 Responsibilities:
 
 1.Developed a Monte Carlo method for the decoding process in quantum error correction.
@@ -51,12 +63,9 @@ Responsibilities:
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Matlab, C and C++, Python, Mathematica, Jupyter Notebook
+* Composing: LATEX
+* Softwares: OriginLab, VESTA
 
 Publications
 ======
