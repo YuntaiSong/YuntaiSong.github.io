@@ -16,50 +16,24 @@ Education
 
 Research experience
 ======
-* Emergent Long-Range Interaction in Entanglement Hamiltonian
+* Emergent Long-Range Interaction in Entanglement Hamiltonian (Jul. 2023 - Sep. 2023)
   
-Period: Jul. 2023 - Sep. 2023
+Institution: Westlake University, Hangzhou, China
 
-Institution: Hangzhou, China
+Instructor: [Prof. Zheng Yan](https://scholar.google.com/citations?user=ChJltEYAAAAJ&hl=en)
 
-Instructor: Prof. Zheng Yan
+* Neural Quantum State Ansatz for Variational Monte Carlo Method (Aug. 2023 - Apr. 2024)
 
-Responsibilities:
+Institution: University of California San Diego, San Diego, USA
 
-1.Utilized exact diagonalization for analyzing the 1D Heisenberg Ladder system.
+Instructor: [Prof. Yizhuang You](https://scholar.google.ca/citations?user=jXdbhiQAAAAJ&hl=en)
 
-2.Extracted the strength of Heisenberg operator across varying interaction distances within the entanglement Hamiltonian to challenge the Li-Haldane conjecture.
+* Monte Carlo Method for Quantum Error Correction (Nov. 2023 - Present)
 
-* Neural Quantum State Ansatz for Variational Monte Carlo Method
+Institution: University of California Riverside, Riverside, USA
 
-Period: Aug. 2023 - Apr. 2024
+Instructor: [Prof. Leonid Pryadko](https://scholar.google.com/citations?user=S8iAOo4AAAAJ&hl=en)
 
-Institution: San Diego, USA
-
-Instructor: Prof. Yizhuang You
-
-Responsibilities:
-
-1.Implemented Neural Jastrow correlator in VMC for determining the ground state of multi-flavor Fermion models.
-
-
-2.Applied restricted Boltzmann machine ansatz in VMC for ground state calculations of various spin models, including the transverse Ising model and the Kitaev honeycomb model with a magnetic field.
-
-3.Employed CNN and GCNN ansatz in VMC for ground state determination of frustrated spin models like the J_1-J_2 model.
-
-* Monte Carlo Method for Quantum Error Correction
-
-Period: Nov. 2023 - Present
-
-Institution: Riverside, USA
-
-Instructor: Prof. Leonid Pryadko
-
-Responsibilities:
-
-1.Developed a Monte Carlo method for the decoding process in quantum error correction.
-
-2.Utilized the Bennett acceptance ratio method to identify the error vector with the lowest free energy.
   
 Skills
 ======
