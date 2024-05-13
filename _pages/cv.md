@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Student in Physics, University of Illinois Urbana-Champaign, 2024- 2029(expected)
+* B.S. in Theoretical Physics, Lanzhou University, 2020-2024
 
-Work experience
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
