@@ -32,7 +32,7 @@ author:
   employer         : >
                      University of Illinois 
                      Urbana-Champaign
-  uri              : "https://icmt.illinois.edu/"
+  uri              : #"https://icmt.illinois.edu/"
   email            : "yuntais2@illinois.edu" 
 
   # Academic websites
@@ -41,7 +41,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-7795-4295"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Yuntai-Song-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
