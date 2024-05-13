@@ -15,9 +15,3 @@ The main focus of my PhD study at UIUC right now is quantum error correction for
 
 You could find my CV here: [Yuntai Song's CV](../assets/Curriculum_vitae__Yuntai_Song 2024.05.13.pdf) 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
