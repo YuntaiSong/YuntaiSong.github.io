@@ -16,23 +16,7 @@ Education
 
 Research experience
 ======
-* Emergent Long-Range Interaction in Entanglement Hamiltonian (Jul. 2023 - Sep. 2023)
-  
-Institution: Westlake University, Hangzhou, China
 
-Instructor: [Prof. Zheng Yan](https://scholar.google.com/citations?user=ChJltEYAAAAJ&hl=en)
-
-* Neural Quantum State Ansatz for Variational Monte Carlo Method (Aug. 2023 - Apr. 2024)
-
-Institution: University of California San Diego, San Diego, USA
-
-Instructor: [Prof. Yizhuang You](https://scholar.google.ca/citations?user=jXdbhiQAAAAJ&hl=en)
-
-* Monte Carlo Method for Quantum Error Correction (Nov. 2023 - Present)
-
-Institution: University of California Riverside, Riverside, USA
-
-Instructor: [Prof. Leonid Pryadko](https://scholar.google.com/citations?user=S8iAOo4AAAAJ&hl=en)
 
   
 Skills
