@@ -13,5 +13,5 @@ My B.S. degree in Physics is obtained at [Lanzhou University](http://phy.lzu.edu
 
 The main focus of my PhD study at UIUC right now is quantum error correction for LDPC (low density parity checker) codes. Also, I am committed to combine machine learning methods with decoding algorithms.
 
-You could find my CV here: [Yuntai Song's CV](../assets/Curriculum_vitae__Yuntai_Song 2024.05.13.pdf) 
+You could find my CV here: [Yuntai Song's CV](../assets/Curriculum_vitae__Yuntai_Song Apr.24,2025.pdf) 
 
