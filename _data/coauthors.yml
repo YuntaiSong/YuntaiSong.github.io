@@ -1,0 +1,14 @@
+# This file maps co-authors to their personal website or profile URLs.
+# When a co-author is listed in a paper in _bibliography/papers.bib, their name becomes a clickable link.
+# Format:
+# "lastname":
+#   - firstname: ["Firstname", "F."]
+#     url: https://example.com/coauthor
+
+"advisor":
+  - firstname: ["Bob", "B."]
+    url: https://example.com/advisor
+
+"colleague":
+  - firstname: ["Alice", "A."]
+    url: https://example.com/colleague

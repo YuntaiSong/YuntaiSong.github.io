@@ -1,0 +1,11 @@
+# Venue badge customization for publications
+# Maps publication 'abbr' tags to badge colors and URLs
+
+"Preprint":
+  color: "#6c757d"
+
+"Conference":
+  color: "#0076df"
+
+"Journal":
+  color: "#28a745"
