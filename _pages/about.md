@@ -6,7 +6,7 @@ subtitle: Ph.D. Student in Physics @ UIUC
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: PIC.jpeg
   image_circular: false
   more_info: >
     <p>Department of Physics</p>
