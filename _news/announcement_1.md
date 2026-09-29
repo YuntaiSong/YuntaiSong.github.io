@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-09-01 09:00:00-0400
+date: 2026-08-06 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper *"Towards Scalable and Efficient Deep Learning Architectures"* has been accepted to [Conference Name 2026]! 🎉 Check out the [preprint](/publications/).
+Our new preprint *"Approximate Quantum Error Correction at Chiral Topological Edges"* is now available on [arXiv:2608.06258](https://arxiv.org/abs/2608.06258)! Check out the [publications](/publications/) page for details.

@@ -1,6 +1,10 @@
 # Venue badge customization for publications
 # Maps publication 'abbr' tags to badge colors and URLs
 
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
 "Preprint":
   color: "#6c757d"
 
