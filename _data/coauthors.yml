@@ -5,10 +5,7 @@
 #   - firstname: ["Firstname", "F."]
 #     url: https://example.com/coauthor
 
-"advisor":
-  - firstname: ["Bob", "B."]
-    url: https://example.com/advisor
-
-"colleague":
-  - firstname: ["Alice", "A."]
-    url: https://example.com/colleague
+# Example:
+# "liu":
+#   - firstname: ["Zejun", "Z."]
+#     url: https://example.com
