@@ -2,11 +2,10 @@
 # The socials will be displayed in the order they are defined here.
 # For more information, please refer to: https://github.com/george-gca/jekyll-socials
 
-email: songyuntai704@gmail.com
+email: yuntais2@illinois.edu
+orcid_id: 0009-0009-7795-4295
 github_username: YuntaiSong
-# scholar_userid: # your Google Scholar ID (e.g., qc6CJjYAAAAJ)
-# orcid_id: # your ORCID ID (e.g., 0000-0000-0000-0000)
-# linkedin_username: # your LinkedIn username
-# x_username: # your X (Twitter) handle
+linkedin_username: yuntai-song-b8b08a290
+research_gate_profile: Yuntai-Song-2
+# scholar_userid: # your Google Scholar ID
 # cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file (optional)
-# rss_icon: true # uncomment to show RSS feed icon

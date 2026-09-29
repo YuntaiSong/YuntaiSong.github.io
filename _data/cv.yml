@@ -1,46 +1,46 @@
 cv:
   name: Yuntai Song
-  label: Researcher
-  email: songyuntai704@gmail.com
-  location: ""
+  label: Ph.D. Student in Physics
+  email: yuntais2@illinois.edu
+  location: Urbana, IL
   image: ""
-  summary: Academic researcher focusing on computer science, intelligent systems, and technology.
+  summary: Ph.D. student at UIUC focusing on Quantum Error Correction, Quantum Information, and Machine Learning.
 
   social_networks:
     - network: GitHub
       username: YuntaiSong
+    - network: LinkedIn
+      username: yuntai-song-b8b08a290
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: 1110 West Green Street
+    city: Urbana
+    region: Illinois
+    postalCode: IL 61801
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
+      - institution: University of Illinois Urbana-Champaign
+        location: Urbana, IL, USA
+        url: https://illinois.edu/
         area: Physics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2024
+        end_date: Present
         highlights:
-          - Description 1.
-          - Description 2.
+          - Focus on Quantum Error Correction for LDPC codes.
+          - Machine learning applications in quantum decoding.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
+      - institution: Lanzhou University
+        location: Gansu, China
+        url: http://phy.lzu.edu.cn/
         area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+        studyType: Bachelor of Science
+        start_date: 2020
+        end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - Bachelor's thesis on Neural Quantum State with application in Variational Monte Carlo Method.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University

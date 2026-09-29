@@ -2,40 +2,43 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher & Scholar
+subtitle: Ph.D. Student in Physics @ UIUC
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>Department of Computer Science</p>
-    <p>Your University / Institution</p>
-    <p>songyuntai704@gmail.com</p>
+    <p>Department of Physics</p>
+    <p>1110 West Green Street</p>
+    <p>Urbana, IL 61801, USA</p>
+    <p>yuntais2@illinois.edu</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
 ---
 
-I am an academic researcher with a focus on cutting-edge problems in computer science and technology. My work spans theoretical foundations and practical applications in modern computing.
+Hi! I am a Ph.D. student (24Fall) in Physics at the **University of Illinois Urbana-Champaign (UIUC)**. My research interests lie at the intersection of **Condensed Matter Theory**, **Quantum Information**, and **Machine Learning**.
 
-You can edit this biography in `_pages/about.md` to introduce your research questions, background, and academic path. To replace the profile picture on the right, place your image at `assets/img/prof_pic.jpg`.
+Currently, the primary focus of my Ph.D. research is **quantum error correction for LDPC (low-density parity-check) codes**, as well as developing advanced decoding algorithms using machine learning methods.
+
+Previously, I completed my B.S. in Physics at [Lanzhou University](http://phy.lzu.edu.cn/English.htm) (2020.09 – 2024.06). I was fortunate to complete my undergraduate thesis, *Neural Quantum State with its Application in Variational Monte Carlo Method*, under the supervision of [Prof. Yizhuang You](https://scholar.google.ca/citations?user=jXdbhiQAAAAJ&hl=en) and [Prof. Yin Zhong](https://www.researchgate.net/profile/Yin-Zhong-4).
 
 ### Research Interests
-- **Core Area 1**: High-level summary of your main research topic and direction.
-- **Core Area 2**: Methodological and theoretical inquiries.
-- **Core Area 3**: Applied systems, empirical studies, or interdisciplinary work.
+- **Quantum Error Correction**: Quantum LDPC codes, fault-tolerant architectures, and threshold analysis.
+- **Decoding Algorithms & ML**: Machine learning applied to quantum decoding, neural decoders, and neural quantum states.
+- **Condensed Matter Theory**: Variational Monte Carlo (VMC), strongly correlated quantum systems, and tensor networks.
 
-### Education & Experience
-- **Ph.D. / M.S. Candidate**, Your Institution *(Year – Present)*
-- **B.S.**, Your Undergraduate University *(Year – Year)*
+### Education
+- **Ph.D. in Physics**, University of Illinois Urbana-Champaign *(2024 – Present)*
+- **B.S. in Physics**, Lanzhou University *(2020 – 2024)*
 
-Feel free to explore my [publications](/publications/), [projects](/projects/), and [CV](/cv/), or connect with me via [email](mailto:songyuntai704@gmail.com).
+Feel free to browse my [publications](/publications/), [projects](/projects/), and [CV](/cv/), or reach out via [email](mailto:yuntais2@illinois.edu).
