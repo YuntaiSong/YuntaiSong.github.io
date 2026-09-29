@@ -56,7 +56,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Curriculum Vitae of Yuntai Song. A downloadable PDF version is available via the icon above.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -129,6 +129,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.researchgate.net/profile/Yuntai-Song-2/", "_blank");
+        },
+      },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/Academic_CV_YuntaiSong.pdf", "_blank");
         },
       },{
       id: 'light-theme',
