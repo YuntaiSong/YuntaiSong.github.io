@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Academic research projects, software tools, and open-source implementations.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [research, software]
 horizontal: false

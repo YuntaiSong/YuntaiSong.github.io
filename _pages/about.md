@@ -36,4 +36,4 @@ Previously, I completed my B.S. in Physics at [Lanzhou University](http://phy.lz
 - **Ph.D. in Physics**, University of Illinois Urbana-Champaign *(2024 – Present)*
 - **B.S. in Physics**, Lanzhou University *(2020 – 2024)*
 
-Feel free to browse my [publications](/publications/), [projects](/projects/), and [CV](/cv/), or reach out via [email](mailto:yuntais2@illinois.edu).
+Feel free to browse my [publications](/publications/) and [CV](/cv/), or reach out via [email](mailto:yuntais2@illinois.edu).

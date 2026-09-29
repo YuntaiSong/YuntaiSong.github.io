@@ -4,7 +4,6 @@ cv:
   email: yuntais2@illinois.edu
   location: Urbana, IL
   image: ""
-  summary: Ph.D. student at the University of Illinois Urbana-Champaign (UIUC) focusing on Quantum Error Correction, Quantum Information, and Machine Learning.
 
   social_networks:
     - network: GitHub
@@ -41,14 +40,3 @@ cv:
         end_date: 2024
         highlights:
           - "Bachelor's thesis: Neural Quantum State with its Application in Variational Monte Carlo Method."
-
-    Research Interests:
-      - name: Quantum Error Correction
-        highlights:
-          - Quantum LDPC codes, threshold analysis, and fault tolerance.
-      - name: Decoding Algorithms & ML
-        highlights:
-          - Machine learning methods applied to quantum decoding.
-      - name: Condensed Matter Theory
-        highlights:
-          - Neural quantum states, variational Monte Carlo, and quantum many-body systems.
