@@ -13,3 +13,35 @@
 
 "Journal":
   color: "#28a745"
+
+"PRL":
+  url: https://journals.aps.org/prl/
+  color: "#003366"
+
+"PRB":
+  url: https://journals.aps.org/prb/
+  color: "#003366"
+
+"PRA":
+  url: https://journals.aps.org/pra/
+  color: "#003366"
+
+"PRD":
+  url: https://journals.aps.org/prd/
+  color: "#003366"
+
+"PRX":
+  url: https://journals.aps.org/prx/
+  color: "#003366"
+
+"Nature":
+  url: https://www.nature.com/
+  color: "#c00"
+
+"Science":
+  url: https://www.science.org/
+  color: "#d9230f"
+
+"ApJ":
+  url: https://iopscience.iop.org/journal/0004-637X
+  color: "#305f88"
